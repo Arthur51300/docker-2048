@@ -1,6 +1,5 @@
 # docker-2048
 
-emlien modif 2
 simple is better
 
 a smaller docker version of 2048
